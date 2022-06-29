@@ -1,0 +1,77 @@
+body {
+  background-color: red;
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  margin: 0;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  text-align: center;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.topContainer {
+  background-color: orange;
+  position: relative;
+  padding-top: 100px;
+}
+
+.hamie {
+  background-color: red;
+  text-decoration: underline;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.studio {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.workout {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
